@@ -16,8 +16,8 @@ const projects = [
     {
         name: "Project Under Progress",
         links: [
-            { label: "Not released yet!", url: "https://example.com/project-gamma" },
-            { label: "Not released yet!", url: "https://github.com/yourprofile/project-gamma" }
+            { label: "Not released yet!", url: "https://suraj8300.github.io/My-Portfolio/" },
+            { label: "Not released yet!", url: "https://suraj8300.github.io/My-Portfolio/" }
         ]
     },
     // Add more projects as needed
