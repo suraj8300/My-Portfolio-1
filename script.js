@@ -3,8 +3,8 @@ const projects = [
     {
         name: "Treasure Island Game",
         links: [
-            { label: "Version 1.0", url: "https://suraj8300.github.io/Treasure-Island/" },
-            { label: "Version 2.0", url: "https://example.com/project-alpha-v2" }
+            { label: "Version 1.0", url: "https://suraj8300.github.io/Treasure-Island-Game-2.0/" },
+            { label: "Version 2.0", url: "https://suraj8300.github.io/Treasure-Island-Game-1.0/" }
         ]
     },
     {
